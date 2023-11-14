@@ -1,0 +1,27 @@
+body {
+    height: 700;
+    width: 300;
+    background-color: white;
+    
+
+}
+img{
+    height: 200;
+    width: 300;
+    margin: 10px 5px;
+    background-color: azure;
+    /* padding: 3px 3px; */
+
+    
+}
+.btn {
+    border-radius: 25px;
+    justify-content: center;
+    background-color: orange;
+    padding: 10px 15px;
+    display: inline-block;
+    text-align: center;
+    font: 20px;
+    font-size: medium;
+    letter-spacing: 0.5px;
+}
